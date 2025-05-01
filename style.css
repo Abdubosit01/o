@@ -1,0 +1,379 @@
+.man1 div {
+    height: 167px;
+    width: 160px;
+    background-color: rgb(255, 0, 0);
+    border-radius: 20px;
+}
+
+
+
+
+.man1 {
+    background-color: blueviolet;
+    width: 850px;
+    height: 800px;
+    gap: 20px;
+    border-radius: 20px;
+    gap: 30px;
+    display: flex;
+}
+
+
+
+
+
+
+
+
+
+.man2 div {
+    height: 167px;
+    width: 160px;
+    background-color: rgb(255, 0, 0);
+    border-radius: 20px;
+    margin-top: 30px;
+
+}
+
+
+
+
+.man2 {
+    background-color: blueviolet;
+    width: 850px;
+    height: 800px;
+    gap: 20px;
+    border-radius: 20px;
+
+}
+
+
+
+.man3 div {
+    height: 167px;
+    width: 160px;
+    background-color: rgb(255, 0, 0);
+    border-radius: 20px;
+    margin-top: 30px;
+
+}
+
+
+
+
+.man2 {
+    background-color: blueviolet;
+    width: 850px;
+    height: 800px;
+    gap: 20px;
+    border-radius: 20px;
+
+}
+
+
+
+.man2 div {
+    height: 167px;
+    width: 160px;
+    background-color: rgb(255, 0, 0);
+    border-radius: 20px;
+    margin-top: 30px;
+
+}
+
+
+
+
+.man2 {
+    background-color: blueviolet;
+    width: 850px;
+    height: 800px;
+    gap: 20px;
+    border-radius: 20px;
+
+}
+
+
+
+
+
+
+
+.man3 div {
+    height: 167px;
+    width: 160px;
+    background-color: rgb(255, 0, 0);
+    border-radius: 20px;
+
+
+}
+
+
+
+
+.man3 {
+    background-color: blueviolet;
+    width: 850px;
+    height: 800px;
+    gap: 20px;
+    border-radius: 20px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+body {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+
+
+.man4 div {
+    height: 167px;
+    width: 160px;
+    background-color: rgb(255, 0, 0);
+    border-radius: 20px;
+}
+
+
+
+
+.man4 {
+    background-color: blueviolet;
+    width: 850px;
+    height: 800px;
+    gap: 20px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-between
+}
+
+
+
+.man5 div {
+    height: 167px;
+    width: 160px;
+    background-color: rgb(255, 0, 0);
+    border-radius: 20px;
+
+}
+
+
+
+
+.man5 {
+    background-color: blueviolet;
+    width: 850px;
+    height: 800px;
+    gap: 20px;
+    border-radius: 20px;
+    display: flex;
+    gap: 30px;
+    margin-top: 100px ;
+}
+
+
+
+
+
+
+
+
+.man6 div {
+    height: 167px;
+    width: 160px;
+    background-color: rgb(255, 0, 0);
+    border-radius: 20px;
+
+}
+
+
+
+
+.man6 {
+    background-color: blueviolet;
+    width: 850px;
+    height: 800px;
+    gap: 20px;
+    border-radius: 20px;
+    display: flex;
+    gap: 30px;
+justify-content: end;
+margin-top: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+.man7 div {
+    height: 167px;
+    width: 160px;
+    background-color: rgb(255, 0, 0);
+    border-radius: 20px;
+
+}
+
+
+
+
+.man7 {
+    background-color: blueviolet;
+    width: 850px;
+    height: 800px;
+    gap: 20px;
+    border-radius: 20px;
+    display: flex;
+    gap: 30px;
+justify-content: center;
+margin-top: 100px;
+}
+
+
+
+
+.man8 div {
+    height: 167px;
+    width: 160px;
+    background-color: rgb(255, 0, 0);
+    border-radius: 20px;
+
+}
+
+
+
+
+.man8 {
+    background-color: blueviolet;
+    width: 850px;
+    height: 800px;
+    gap: 20px;
+    border-radius: 20px;
+    display: flex;
+    gap: 30px;
+justify-content: space-between;
+margin-top: 100px;
+
+}
+
+
+
+
+.man9 div {
+    height: 167px;
+    width: 160px;
+    background-color: rgb(255, 0, 0);
+    border-radius: 20px;
+
+}
+
+
+
+
+.man9 {
+    background-color: blueviolet;
+    width: 850px;
+    height: 800px;
+    gap: 20px;
+    border-radius: 20px;
+    display: flex;
+    gap: 30px;
+gap: 30px;
+margin-top: 100px;
+
+}
+
+
+
+
+
+
+.man10 div {
+    height: 167px;
+    width: 160px;
+    background-color: rgb(255, 0, 0);
+    border-radius: 20px;
+
+}
+
+
+
+
+.man10 {
+    background-color: blueviolet;
+    width: 850px;
+    height: 800px;
+    gap: 20px;
+    border-radius: 20px;
+    display: flex;
+    gap: 30px;
+gap: 30px;
+margin-top: 100px;
+align-items: end;
+
+}
+
+
+
+
+
+.man11 div {
+    height: 167px;
+    width: 160px;
+    background-color: rgb(255, 0, 0);
+    border-radius: 20px;
+
+}
+
+
+
+
+.man11 {
+    background-color: blueviolet;
+    width: 850px;
+    height: 800px;
+    gap: 20px;
+    border-radius: 20px;
+    display: flex;
+    gap: 30px;
+gap: 30px;
+margin-top: 100px;
+align-items: center;
+
+}
+
+
+
+
+
+.man12 div {
+    height: 167px;
+    width: 160px;
+    background-color: rgb(255, 0, 0);
+    border-radius: 20px;
+
+}
+
+
+
+
+.man12 {
+    background-color: blueviolet;
+    width: 850px;
+    height: 800px;
+    gap: 20px;
+    border-radius: 20px;
+    display: flex;
+    gap: 30px;
+gap: 30px;
+margin-top: 100px;
+justify-content: space-evenly;
+
+}
